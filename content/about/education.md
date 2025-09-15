@@ -39,7 +39,7 @@ experience:
     company_url: ''
     company_logo: ggsipu
     location: ''
-    date_start: ''
+    date_start: '2016-05-05'
     date_end: ''
     description: Bachelors Degree
 
