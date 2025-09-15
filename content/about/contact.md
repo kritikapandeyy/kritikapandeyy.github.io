@@ -9,27 +9,27 @@ subtitle:
 
 content:
   autolink: true
-  email: yourname@example.com
-  phone: '+1 647 000 0000'
+  email: kritikapandey565@gmail.com
+  phone: ''
 
   # Contact details must use the correct structure:
   address:
     street: ''
     city: Toronto
-    region: ON
+    region: ''
     postcode: ''
-    country: Canada
-    country_code: CA
+    country: ''
+    country_code: ''
 
   office_hours:
-    - 'Mon–Fri 9:00–17:00'
+    - ''
 
   # Optional: show contact buttons/links under the box
   contact_links:
     - icon: linkedin
       icon_pack: fab
       name: LinkedIn
-      link: 'https://www.linkedin.com/in/your-handle/'
+      link: 'https://www.linkedin.com/in/kritika--pandey/'
 
 design:
   # '1' or '2'
