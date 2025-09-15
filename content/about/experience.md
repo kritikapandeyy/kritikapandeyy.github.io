@@ -52,6 +52,7 @@ experience:
     • Created interactive dashboards using Tableau, Power BI, and Looker to monitor real-time KPIs used by 
     stakeholders for strategic decision-making 
     • Ensured data accuracy through validation processes, quality checks, and supporting decision-making. 
+
     design:
   columns: '1'
 ---
