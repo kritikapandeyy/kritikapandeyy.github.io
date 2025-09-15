@@ -11,7 +11,7 @@ headless: true
 weight: 40
 
 # Use a soft hyphen in a long heading.
-title: 'Certifications'
+title: 'Certificates'
 subtitle:
 
 # Display date format (output only)
