@@ -18,7 +18,7 @@ content:
     city: Toronto
     region: ''
     postcode: ''
-    country: ''
+    country: 'ON'
     country_code: ''
 
   # Optional: show contact buttons/links under the box
