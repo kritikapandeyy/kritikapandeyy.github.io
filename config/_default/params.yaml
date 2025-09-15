@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {2025} Kritika Pandey'
+    notice: '© {2025}'
     license:
       enable: true
       allow_derivatives: false
