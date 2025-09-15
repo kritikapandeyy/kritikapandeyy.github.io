@@ -73,8 +73,10 @@ social:
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi, I’m Kritika Pandey. I operationalize data into analytics that teams use. Start with the why, map the how, build, test, and iterate. I’m a recent Data Analytics graduate from Humber College with 3+ years’ experience and a practical analyst who codes: Python • SQL • Power BI • Tableau. At Devant, I delivered automations and dashboards that answered specific questions and saved real hours.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I focus on human-centred analytics: blending statistics, automation, design, and marketing strategy to answer the “so what?” for stakeholders. My work spans event analytics, forecasting, survey insights, and operations/marketing reporting across education, nonprofit, public, and startup contexts.
+
+If you value honest analysis, clean visuals, and rapid iteration from question to impact, let’s build something useful. 🙂
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
