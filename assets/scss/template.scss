@@ -115,3 +115,18 @@ ul.network-icon .big-icon {
 .wg-about .portrait-title h3 {
   font-size: 0.8rem;
 }
+
+
+/* === Education / Experience widget tweaks === */
+
+/* Hide the date column */
+.home-section.wg-experience .experience .experience-date {
+  display: none !important;
+}
+
+/* Stretch description/content to full width */
+.home-section.wg-experience .experience .col-lg-9 {
+  flex: 0 0 100%;
+  max-width: 100%;
+}
+
