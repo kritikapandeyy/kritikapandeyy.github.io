@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Kritika Pandey
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,15 +10,15 @@ role: ''
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🧑‍💻
 
 # Organizations/Affiliations
 #organizations:
-#- name: 腾讯
+#- name: Kritika
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I make messy data simple—automating pipelines and building dashboards that tell the story.
 
 #interests:
 #- Artificial Intelligence
@@ -44,13 +44,20 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
+    link: 'mailto:kritikapandey565@gmail.com'   # direct email
+
+  - icon: github
     icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
+    link: 'https://github.com/kritikapandeyy'   
+
+  - icon: linkedin
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: 'https://www.linkedin.com/in/kritika--pandey/'
+
+  - icon: cv
+    icon_pack: ai
+    link: files/cv.pdf
+
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
