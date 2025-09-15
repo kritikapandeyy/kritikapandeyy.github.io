@@ -11,7 +11,7 @@ headless: true
 weight: 40
 
 # Use a soft hyphen in a long heading.
-title: 'Certificates'
+title: '<span style="white-space:nowrap;">Certifications</span>'
 subtitle:
 
 # Display date format (output only)
