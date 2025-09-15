@@ -25,7 +25,7 @@ experience:
   - title: Data Analytics and Business Insights
     company: Humber College
     company_url: ''
-    company_logo: org-humber
+    company_logo: humber
     location: Toronto
     date_start: '2024-01-01'
     date_end: ''
@@ -37,7 +37,7 @@ experience:
   - title: Computer Science
     company: GGSIP University
     company_url: ''
-    company_logo: org-ggs
+    company_logo: ggsipu
     location: ''
     date_start: ''
     date_end: ''
