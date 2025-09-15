@@ -30,7 +30,7 @@ item:
     organization: IBM Coursera
     organization_url: https://www.coursera.org
     title: Data Analysis with Python
-    url: 'https://www.coursera.org/account/accomplishments/certificate/YWGRY4MF4FYB'
+    url: ''
   - certificate_url: https://www.coursera.org/account/accomplishments/certificate/FYTCBA2QTGGE
     date_end: ''
     date_start: '2022-07-13'
@@ -38,7 +38,7 @@ item:
     organization: IBM Coursera
     organization_url: https://www.coursera.org
     title: Data Visualization with Python
-    url: https://www.coursera.org/account/accomplishments/certificate/FYTCBA2QTGGE
+    url: ''
   - certificate_url: https://www.datacamp.com
     date_end: '2020-12-21'
     date_start: '2020-07-01'
