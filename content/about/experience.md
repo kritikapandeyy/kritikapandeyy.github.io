@@ -22,29 +22,36 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Data Analyst
+    company: Devant
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    company_logo: devant
+    location: Toronto
+    date_start: '2024-02-01'
+    date_end: '2025-09-15'
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        • Collected and analyzed engagement data to inform strategy and improve targeting using KPI tracking. 
+        • Assisted in organizing events and promotional campaigns and tracked performance metrics to measure 
+        engagement and campaign success. 
+        • Created quarterly performance reports for clients in the education sector, offering insights to support strategic 
+        decision-making. 
+        • Automated data collection and transformation processes from multiple sources into Power BI, enhancing 
+        reporting efficiency and accuracy
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Data Analyst
+    company: Probyto AI
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
-design:
+    company_logo: probyto
+    location: ''
+    date_start: '2022-09-05'
+    date_end: '2023-10-10'
+    description: |2-
+    • Developed automated reporting systems using SQL, Python, and Excel, reducing report generation time by 30%. 
+    • Collaborated with different teams to streamline ETL pipelines, used Python to integrate data into the cloud, 
+    resulting in more efficient data processing and visualizations. 
+    • Created interactive dashboards using Tableau, Power BI, and Looker to monitor real-time KPIs used by 
+    stakeholders for strategic decision-making 
+    • Ensured data accuracy through validation processes, quality checks, and supporting decision-making. 
+    design:
   columns: '1'
 ---
