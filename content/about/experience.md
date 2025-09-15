@@ -45,7 +45,7 @@ experience:
     location: ''
     date_start: '2022-09-05'
     date_end: '2023-10-10'
-    description: |2-
+    description: 
     • Developed automated reporting systems using SQL, Python, and Excel, reducing report generation time by 30%. 
     • Collaborated with different teams to streamline ETL pipelines, used Python to integrate data into the cloud, 
     resulting in more efficient data processing and visualizations. 
