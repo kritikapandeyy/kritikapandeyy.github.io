@@ -11,7 +11,7 @@ weight: 10
 author: admin
 design:
   background:
-    color: '#090a0b'
+    color: '#F0F9FF'
     text_color_light: true
   css_class: fullscreen
 ---
