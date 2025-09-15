@@ -28,6 +28,15 @@ item:
     description: ''
     url: ''
 
+  - title: Google Data Analytics Specialization
+    organization: Google
+    organization_url: https://www.google.com
+    certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/H56EU7MU8S23
+    date_start: '2022-06-14'
+    date_end: ''
+    description: ''
+    url: ''
+
   - title: Data Visualization with Python
     organization: Coursera
     organization_url: https://www.coursera.org
@@ -37,13 +46,31 @@ item:
     description: ''
     url: ''
 
-  - title: Object-Oriented Programming in R
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    certificate_url: ''
-    date_start: '2020-07-01'
-    date_end: '2020-12-21'
-    description: Completed modules on classes, methods, and inheritance in R.
+  - title: Databases and SQL for Data Science with Python
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    certificate_url: https://www.coursera.org/account/accomplishments/certificate/66FNQCETDXFW
+    date_start: '2022-06-10'
+    date_end: ''
+    description: ''
+    url: ''
+
+  - title: Python Project for Data Science
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    certificate_url: https://www.coursera.org/account/accomplishments/certificate/KBRC39QBETPS
+    date_start: '2022-07-127'
+    date_end: ''
+    description: ''
+    url: ''
+
+  - title: Python for Data Science, AI & Development
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    certificate_url: https://www.coursera.org/account/accomplishments/certificate/QEDAP4K35VXK
+    date_start: '2022-07-127'
+    date_end: ''
+    description: ''
     url: ''
     
 design:
