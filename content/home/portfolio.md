@@ -28,11 +28,11 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
+    - name: Data Analysis
       tag: ML
-    - name: Computer Vision
+    - name: Marketing & KPI
       tag: CV
-    - name: NLP
+    - name: Python Pipeline
       tag: NLP
 
 design:
