@@ -11,7 +11,7 @@ headless: true
 weight: 40
 
 # Use a soft hyphen in a long heading.
-title: 'Accomplishments'
+title: 'Accompli-shments'
 subtitle:
 
 # Display date format (output only)
@@ -20,7 +20,7 @@ date_format: Jan 2006
 # Accomplishments.
 item:
   - title: Data Analysis with Python
-    organization: IBM
+    organization: Coursera
     organization_url: https://www.coursera.org
     certificate_url: https://www.coursera.org/account/accomplishments/certificate/YWGRY4MF4FYB
     date_start: '2022-04-04'     
@@ -29,7 +29,7 @@ item:
     url: ''
 
   - title: Data Visualization with Python
-    organization: IBM
+    organization: Coursera
     organization_url: https://www.coursera.org
     certificate_url: https://www.coursera.org/account/accomplishments/certificate/FYTCBA2QTGGE
     date_start: '2022-07-13'
