@@ -28,7 +28,7 @@ experience:
     company_logo: humber
     location: Toronto
     date_start: '2024-01-01'
-    date_end: ''
+    date_end: '2024-09-12'
     description: |2-
         * Data Analytics with Python, SQL , Databricks, SPSS, Microsoft SQL Server, Power BI
         * 4x Dean's Honour List
@@ -39,8 +39,8 @@ experience:
     company_url: ''
     company_logo: ggsipu
     location: ''
-    date_start: '2016-05-05'
-    date_end: ''
+    date_start: '2012-05-05'
+    date_end: '2016-05-05'
     description: Bachelors Degree
 
 design:
