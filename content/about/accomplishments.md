@@ -2,35 +2,28 @@
 # Accomplishments widget
 # Docs: https://docs.hugoblox.com/page-builder/
 widget: accomplishments
-active: true           # <- make sure the section is enabled
+active: true
 
-# This file represents a page section.
 headless: true
-
-# Order that this section appears on the page.
 weight: 40
 
-# Use a soft hyphen in a long heading.
 title: '<span style="white-space:nowrap;">Certifications</span>'
 subtitle:
-
-# Display date format (output only)
 date_format: Jan 2006
 
-# Accomplishments.
 item:
   - title: Data Analysis with Python
     organization: Coursera
     organization_url: https://www.coursera.org
     certificate_url: https://www.coursera.org/account/accomplishments/certificate/YWGRY4MF4FYB
-    date_start: '2022-04-04'     
+    date_start: '2022-04-04'
     date_end: ''
     description: ''
     url: ''
 
   - title: Google Data Analytics Specialization
-    organization: Google
-    organization_url: https://www.google.com
+    organization: Coursera
+    organization_url: https://www.coursera.org
     certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/H56EU7MU8S23
     date_start: '2022-06-14'
     date_end: ''
@@ -59,7 +52,7 @@ item:
     organization: Coursera
     organization_url: https://www.coursera.org
     certificate_url: https://www.coursera.org/account/accomplishments/certificate/KBRC39QBETPS
-    date_start: '2022-07-127'
+    date_start: '2022-07-27'
     date_end: ''
     description: ''
     url: ''
@@ -68,11 +61,11 @@ item:
     organization: Coursera
     organization_url: https://www.coursera.org
     certificate_url: https://www.coursera.org/account/accomplishments/certificate/QEDAP4K35VXK
-    date_start: '2022-07-127'
+    date_start: '2022-07-27'
     date_end: ''
     description: ''
     url: ''
-    
+
 design:
   columns: 1
 ---
