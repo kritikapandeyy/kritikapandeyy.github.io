@@ -22,8 +22,8 @@ item:
     url: ''
 
   - title: Google Data Analytics Specialization
-    organization: Coursera
-    organization_url: https://www.coursera.org
+    organization: Google
+    organization_url: https://www.google.com
     certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/H56EU7MU8S23
     date_start: '2022-06-14'
     date_end: ''
