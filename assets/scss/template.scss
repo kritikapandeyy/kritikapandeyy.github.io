@@ -117,29 +117,13 @@ ul.network-icon .big-icon {
 }
 
 
-/* === Education / Experience widget tweaks === */
-
-/* Hide the date span if it exists */
-.home-section.wg-experience .experience .experience-date,
-.home-section.section-experience .experience .experience-date {
+/* === Force hide dates in Education/Experience widget === */
+.home-section.wg-experience time,
+.home-section.section-experience time,
+.home-section.wg-experience .experience-date,
+.home-section.section-experience .experience-date {
   display: none !important;
-}
-
-/* Hide the left-hand date column if used instead of .experience-date */
-.home-section.wg-experience .experience .col-lg-3,
-.home-section.section-experience .experience .col-lg-3 {
-  display: none !important;
-}
-
-/* Stretch the right-hand content column to full width */
-.home-section.wg-experience .experience .col-lg-9,
-.home-section.section-experience .experience .col-lg-9,
-.home-section.wg-experience .experience .col-md-9,
-.home-section.section-experience .experience .col-md-9,
-.home-section.wg-experience .experience .col-9,
-.home-section.section-experience .experience .col-9 {
-  flex: 0 0 100% !important;
-  max-width: 100% !important;
+  visibility: hidden !important;
 }
 
 
