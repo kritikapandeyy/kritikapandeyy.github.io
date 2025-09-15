@@ -12,15 +12,6 @@ content:
   email: kritikapandey565@gmail.com
   phone: ''
 
-  # Contact details must use the correct structure:
-  address:
-    street: ''
-    city: Toronto
-    region: ''
-    postcode: ''
-    country: ON
-    country_code: ''
-
   # Optional: show contact buttons/links under the box
   contact_links:
     - icon: linkedin
