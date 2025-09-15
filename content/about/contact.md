@@ -21,9 +21,6 @@ content:
     country: ''
     country_code: ''
 
-  office_hours:
-    - ''
-
   # Optional: show contact buttons/links under the box
   contact_links:
     - icon: linkedin
