@@ -1,8 +1,8 @@
 ---
-title: Recommendation Systems
-summary: Write about your project here...
+title: Marketing Mix ROI (SEO & Ads)
+summary: Analyzes digital marketing campaigns (paid ads) alongside SEO keyword performance to evaluate which channels and keywords deliver the best ROI using Python, SQL Server, and Power BI
 tags:
   - CV
 date: 2022-01-01
-external_link: http://github.com
+external_link: https://github.com/kritikapandeyy/marketing-analytics
 ---
