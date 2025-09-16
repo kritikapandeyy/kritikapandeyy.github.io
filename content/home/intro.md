@@ -17,8 +17,6 @@ author: admin
 ---
 
 👋 Hi, there! I'm **Kritika**, I turn raw data into reliable KPIs and automate the boring parts so teams move faster!
-{style="font-size:1.2rem;background:linear-gradient(90deg,#f59e0b,#d97706,#b45309);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;color:transparent;"}
-
-#{style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: #text; -webkit-text-fill-color: transparent;"}
+{style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
 Check out my [resumé](/about/) and portfolio below 😄
