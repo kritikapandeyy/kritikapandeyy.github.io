@@ -64,9 +64,15 @@ body {
   padding: 1rem 0;
 }
 
+//.home-section.wg-about-avatar {
+  //padding: 0;
+//}
+//////////////////////////////////////////////////
+/* Gradient background for the About hero */
 .home-section.wg-about-avatar {
-  padding: 0;
+  background: linear-gradient(180deg, #ECFEFF 0%, #DBEAFE 100%) !important;
 }
+/////////////////////////////////////////////////
 
 #profile .network-icon {
   margin-top: 0.5rem;
