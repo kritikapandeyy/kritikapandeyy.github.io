@@ -1,6 +1,6 @@
 ---
 title: Retail Sales Cloud Data Pipeline
-summary: Building a cloud-based data pipeline that ingests Excel files, transforms them with Python, loads them into Azure SQL Database, and delivers interactive dashboards in Power BI.
+summary: Building a cloud-based data pipeline that ingests Excel files, transforms them with Python, loads them into Azure SQL Database, and delivers interactive dashboards in Power BI                                       
 tags:
   - NLP
 date: 2022-01-01
