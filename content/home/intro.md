@@ -17,6 +17,7 @@ author: admin
 ---
 
 👋 Hi, there! I'm **Kritika**, I turn raw data into reliable KPIs and automate the boring parts so teams move faster!                      
-{style="font-size:1.2rem;background:linear-gradient(90deg,#f59e0b,#d97706,#b45309);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;color:transparent;"}
+{style="font-size:1.2rem;color:#b45309;"}
+
 
 Check out my [resumé](/about/) and portfolio below 😄
