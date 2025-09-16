@@ -34,29 +34,30 @@ body {
 }
 
 // no navbar shadow
-//.navbar {
-//  box-shadow: none !important; // 'important' to override dark mode box-shadow too.
-//}
-////////////////////////////////////////////////
-/* no navbar shadow + blue bar */
 .navbar {
-  box-shadow: none !important; // keep
-  background-color: #DBEAFE !important; // light blue layer
+  box-shadow: none !important; // 'important' to override dark mode box-shadow too.
 }
 
-/* readable links on light blue */
-.navbar .navbar-brand,
-.navbar .nav-link {
-  color: #0f172a !important; // dark text
+///////////////////////////////////////////////////
+// Blue “pill” behind just the menu items (desktop only)
+@media (min-width: 992px) {
+  .navbar .navbar-nav {
+    background: #DBEAFE;      // light blue layer
+    border-radius: 9999px;    // fully rounded
+    padding: .25rem .45rem;   // space around the links
+  }
+
+  .navbar .nav-link {
+    border-radius: 9999px;    // rounded link pills
+    padding: .45rem .8rem;
+    color: #0f172a !important; // readable dark text
+  }
+
+  .navbar .nav-link:hover { background: #BFDBFE; }
+  .navbar .nav-link.active { background: #93C5FD; font-weight: 600; }
 }
 
-.navbar .nav-link:hover { opacity: .85; }
-.navbar .nav-link.active { font-weight: 600; }
-
-/* optional: darker navbar in dark mode */
-.dark .navbar { background-color: rgb(31,39,51) !important; }
-
-/////////////////////////////////////////////////
+//////////////////////////////////////////////////
 
 // custom section padding
 .home-section {
