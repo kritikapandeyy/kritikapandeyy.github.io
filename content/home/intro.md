@@ -20,4 +20,4 @@ author: admin
 {style="font-size:1.2rem;color:#b45309;"}
 
 
-Check out my [resumé](/about/) and portfolio below 😄
+Check out my [resumé](/about/) and portfolio below 
