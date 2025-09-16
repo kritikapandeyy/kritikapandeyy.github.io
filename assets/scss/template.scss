@@ -72,6 +72,11 @@ body {
 .home-section.wg-about-avatar {
   background: linear-gradient(180deg, #ECFEFF 0%, #DBEAFE 100%) !important;
 }
+// Dark mode: solid dark background instead of gradient
+.dark .home-section.wg-about-avatar {
+  background: #1f2937 !important; // slate-800
+}
+
 /////////////////////////////////////////////////
 
 #profile .network-icon {
