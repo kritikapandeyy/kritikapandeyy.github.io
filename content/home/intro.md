@@ -9,11 +9,11 @@ headless: true
 weight: 10
 
 author: admin
-#design:
- # background:
-  #  color: '#ECFEFF'
-   # text_color_light: false
-  #css_class: fullscreen
+design:
+  background:
+    color: '#DBEAFE'
+    text_color_light: false
+  css_class: fullscreen
 ---
 
 👋 Hi, there! I'm **Kritika**, I turn raw data into reliable KPIs and automate the boring parts so teams move faster!
